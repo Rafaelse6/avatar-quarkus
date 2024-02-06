@@ -9,5 +9,6 @@
     <td>Quarkus</td>
     <td>Docker</td>
     <td>MariaDB</td>
+    <td>Amazon S3</td>
   </tr>
 </table>
